@@ -1,0 +1,15 @@
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\BL.runtimeconfig.json
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\BL.runtimeconfig.dev.json
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\BL.dll
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\BL.pdb
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\Informatique\PhoneBook\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.dll
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.pdb
+E:\Informatique\PhoneBook\BL\obj\Debug\netcoreapp3.1\BL.genruntimeconfig.cache
