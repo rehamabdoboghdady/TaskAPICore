@@ -27,7 +27,7 @@ namespace PhoneBookAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "User , Admin")]
         public IActionResult PutContact(int id, ContactViewModel contactViewModel)
         {
             try
@@ -48,7 +48,7 @@ namespace PhoneBookAPI.Controllers
             return Ok(_contactAppService.GetContact(id));
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "User , Admin")]
         [HttpPost("CreateContact")]
         public IActionResult Create(ContactViewModel contactViewModel)
         {
@@ -70,7 +70,7 @@ namespace PhoneBookAPI.Controllers
             }
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "User , Admin")]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
