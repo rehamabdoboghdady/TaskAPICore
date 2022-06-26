@@ -7160,11 +7160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Informatique\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
       "projectName": "PhoneBookAPI",
-      "projectPath": "E:\\Informatique\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
+      "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Informatique\\PhoneBook\\PhoneBookAPI\\obj\\",
+      "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\PhoneBookAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7181,11 +7181,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Informatique\\PhoneBook\\BL\\BL.csproj": {
-              "projectPath": "E:\\Informatique\\PhoneBook\\BL\\BL.csproj"
+            "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\BL.csproj"
             },
-            "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj"
+            "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj"
             }
           }
         }

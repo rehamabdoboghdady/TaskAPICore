@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MriUmZVv3G0s4pMgw+3ytP2qDY9sJe9ZNLgPFfA02FqUAng3fRCbCBahQZlQ0hpJCoX3jJbMC8vsGfHwIoJmBQ==",
+  "dgSpecHash": "5Zu93gA8eaNrtQqq6DJ6DUBp5M3a1HqaZSBV5OrqHDwXO4xeCYkcG+MtxEd9Q+mCjmQE0UpUqVD7l4sMzX7XLA==",
   "success": true,
-  "projectFilePath": "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",

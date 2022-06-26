@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZQ8QW2fRlEsh3bm0Md7dIKG/5h0myjrZ/OkoF+tHrW1Tw+m2sHWg4phl6Y3SeoxJam5ZLWDounvcFvAqlF+uQ==",
+  "dgSpecHash": "UUQa8woSc2kKYm+Fyfmx1nlZnzUUlzNGq5cTpJrOm4+/CnndGJTuXk4yJ70JVOD7l+TayyVXoQoGDEj/pqE77w==",
   "success": true,
-  "projectFilePath": "E:\\Informatique\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
+  "projectFilePath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\PhoneBookAPI\\PhoneBookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

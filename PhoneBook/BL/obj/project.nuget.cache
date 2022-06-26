@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "av9d0KKeDt36WN85256p52+FkUG6Qnr6moP38d5QdGgraaFIDxAqrO/BOwSK3e72eTmZ5LNVsOe97q+oyX/7Yg==",
+  "dgSpecHash": "4GOb4BSwSjIW96uqXc/lh1UR/pSn9hPnimGsbKbIMkt54/ZTx+sy4D5CEuZFenITbZSmkIMteWkuMI5G2AJMbQ==",
   "success": true,
-  "projectFilePath": "E:\\Informatique\\PhoneBook\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

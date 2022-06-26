@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj": {}
+    "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj": {
+    "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "E:\\Informatique\\PhoneBook\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6928,11 +6928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Informatique\\PhoneBook\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "E:\\Informatique\\PhoneBook\\BL\\BL.csproj",
+      "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Informatique\\PhoneBook\\BL\\obj\\",
+      "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6949,8 +6949,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\Informatique\\PhoneBook\\DAL\\DAL.csproj"
+            "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\TaskAPICore\\PhoneBook\\DAL\\DAL.csproj"
             }
           }
         }
